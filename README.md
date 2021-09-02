@@ -1,6 +1,7 @@
 
 **Title**: ChatU
-![](https://gfycat.com/anchoredinfantilegosling.gif)
+<iframe src='https://gfycat.com/ifr/FocusedSaltyCranefly' frameborder='0' scrolling='no' allowfullscreen width='640' height='453'></iframe>
+
 **About**:
 
 A chat app where users can chat with each other based on location. 
