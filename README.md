@@ -1,6 +1,6 @@
 
 **Title**: ChatU
-![alt text](https://gfycat.com/anchoredinfantilegosling "Logo Title Text 1")
+![](http://www.reactiongifs.us/wp-content/uploads/2013/10/nuh_uh_conan_obrien.gif)
 **About**:
 
 A chat app where users can chat with each other based on location. 
