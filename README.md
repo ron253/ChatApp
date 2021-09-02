@@ -1,6 +1,6 @@
 
 **Title**: ChatU
-![] (https://gfycat.com/anchoredinfantilegosling)
+![](https://gfycat.com/anchoredinfantilegosling)
 **About**:
 
 A chat app where users can chat with each other based on location. 
