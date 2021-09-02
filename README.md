@@ -21,5 +21,4 @@ Flask + React
 6) Rendering chat messages to sender/reciever in React
 7) Using React Context to pass data down to components
 8) Asynchronous programming with async and await
-
 ![](anchoredinfantilegosling.gif)
