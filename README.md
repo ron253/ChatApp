@@ -1,6 +1,6 @@
 
 **Title**: ChatU
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://gfycat.com/anchoredinfantilegosling "Logo Title Text 1")
 **About**:
 
 A chat app where users can chat with each other based on location. 
