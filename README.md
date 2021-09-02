@@ -1,6 +1,6 @@
 
 **Title**: ChatU
-
+![](anchoredinfantilegosling.gif)
 **About**:
 
 A chat app where users can chat with each other based on location. 
@@ -21,4 +21,4 @@ Flask + React
 6) Rendering chat messages to sender/reciever in React
 7) Using React Context to pass data down to components
 8) Asynchronous programming with async and await
-![](anchoredinfantilegosling.gif)
+
