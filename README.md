@@ -4,13 +4,14 @@
 
 **About**:
 
-A chat app where users can chat with each other based on location. 
+A chat app that matches users based on location preferences for chatting. The underlying functionalities of the chat app are built using Socket.io for chat messaging and JWT for user authentication.
 
-**Motivation For Doing This Project**:
-I wanted to learn how to work with chat applications and gain hands-on experience working on networking concepts learned in classroom, while also gaining more experience with using React and Flask. 
 
-**Technologies Used**:
-Flask + React
+**Frontend**
+React, Bootstrap, HTML, CSS, Javascript
+
+**Backend**
+Flask, Python
 
 
 **Lessons Learned**:
@@ -23,3 +24,4 @@ Flask + React
 7) Using React Context to pass data down to components
 8) Asynchronous programming with async and await
 
+![](https://thumbs.gfycat.com/AnchoredInfantileGosling-size_restricted.gif)
