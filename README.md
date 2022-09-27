@@ -24,4 +24,4 @@ Flask, Python
 7) Using React Context to pass data down to components
 8) Asynchronous programming with async and await
 
-![](https://thumbs.gfycat.com/AnchoredInfantileGosling-size_restricted.gif)
+![](https://https://thumbs.gfycat.com/AnchoredInfantileGosling-size_restricted.gif)
